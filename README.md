@@ -36,7 +36,7 @@
 ---
 
 💡 *“Blending Analog with AI & Neuromorphic design to shape the next era of hardware.”*
-## Hi there 👋
+
 
 <!--
 **Sharru94/Sharru94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
