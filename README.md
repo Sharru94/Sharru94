@@ -17,6 +17,7 @@
 🔹 [AI-Enhanced Analog Front-End for Biomedical Edge Devices](https://github.com/Sharru94/AI-Analog-FrontEnd-Biomedical)  
 🔹 [Quantum Dot-Integrated VCO](https://github.com/Sharru94/QuantumDot-VCO)  
 🔹 [Smart Analog Signal Preprocessor for AI Edge Devices](https://github.com/Sharru94/Smart-Analog-Preprocessor)  
+🔹 [VLSI Buddy Tool-Interactive IC Design Trainer for Students](https://github.com/Sharru94/VLSI-Buddy-Tool)  
 
 *(More coming soon 🚀)*  
 
